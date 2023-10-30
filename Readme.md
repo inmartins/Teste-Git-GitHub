@@ -1,2 +1,2 @@
 Olá, estou testando o Git/GitHub.
-Nova alteração.
+Nova atualização.
